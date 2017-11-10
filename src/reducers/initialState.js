@@ -1,5 +1,4 @@
 export default {
-    // authors: [],
-    // courses: [],
+    friends: [],
     ajaxCallsInProgress: 0
 };
